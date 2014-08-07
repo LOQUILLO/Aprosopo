@@ -51,7 +51,7 @@ Theme is easily selected and configured from the menu:
 - Select different dirty indicator colors
 - Customize the tab styling
 - Customize the sidebar styling
-- 2 inlcuded color schemes
+- 2 included color schemes
 
 # Questions
 
